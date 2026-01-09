@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda
+.env
+*.conda
+
+# Data
+data/raw/
+data/processed/
+
+# macOS
+.DS_Store
